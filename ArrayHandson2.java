@@ -14,9 +14,7 @@ public class ArrayHandson2 {
 		for(i=0;i<array.length;i++){
 		Arrays.sort(array);
 		}
-		int min=array[0];
 		int max=array[9];
-		System.out.println("The minimum element in the array is"+min);
 		System.out.println("The maximum element in the array"+max);
 		}
 }
